@@ -1,9 +1,7 @@
-let greetings= "Great king of Asperg, Welcomes you";
-let nameofcharacter= 'Elias';
+let greetings= "Great king of Asperg, welcomes you";
+let nameofcharacter= 'Thor';
 let aka= " the god of peace";
 let armyGender= 'men of valor';
-
-
 let ageofcharacter= 43;
 let noOfsoldiers= 10000;
 let year= 1567;
@@ -13,7 +11,7 @@ let supplies= ['shelter','water','food']
 let line= true;
 
 console.log(greetings + "!" + " My name is " + nameofcharacter + ".")
-console.log("Also known as," + aka + ".")
+console.log("People call me," + aka + ".")
 console.log("The year right now is " + year + ",")
 console.log("making me " + ageofcharacter + " years old" + ".")
 console.log("My army is about " + noOfsoldiers + " soldiers, they are very brave and are " + armyGender + ".")
