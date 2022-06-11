@@ -1,5 +1,3 @@
-
-
 let greetings= "Great king of Asperg, Welcomes you";
 let nameofcharacter= 'Elias';
 let aka= " the god of peace";
